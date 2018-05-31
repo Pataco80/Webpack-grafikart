@@ -3,7 +3,7 @@ Cours sur Webpack de grafikart
 
 Bonjour, je suis jeune en matière de node.js. je vous prie donc de bien vouloir être indulgent. Mon objectif est la mise en place d'un workflow afin d'augmenter la rapidité et les performances sur la construction de sites web.
 
-Voilà ce que je cherche à faire au final pour ce qui est de la structure.
+Voilà ce que je cherche à faire au final pour ce qui est de la structure.(Ouvrez en mode édition pour voir la structure, je sais pas pourquoi cela ne prend pas mes retours à la ligne).
 
 
 Le dossier projet
